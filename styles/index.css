@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+    background-color: #005B7A;
+    width: 50%;
+    height: 50vh;
+}
